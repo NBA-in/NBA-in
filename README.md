@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**NBA-in/NBA-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Noel — new to the coding world.
 
-Here are some ideas to get you started:
+Right now, I'm learning:
+- 🛠️ The basics of **Git** and **GitHub**
+- 🧠 Some **C programming**, just to understand how coding really works at the core
+- 📚 Planning to dive into **Data Structures and Algorithms**, along with **Object-Oriented Programming (OOP)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'll be uploading things I learn along the way — notes, code, or random practice files.
+
+I'm not an expert yet, just trying to get a little better each day, one step at a time.
+
+*Thanks for stopping by* :)
